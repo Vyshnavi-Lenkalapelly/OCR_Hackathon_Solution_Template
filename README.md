@@ -1,0 +1,1 @@
+# OCR_Hackathon_Solution_Template
