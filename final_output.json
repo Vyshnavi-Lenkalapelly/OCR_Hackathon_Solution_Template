@@ -1,0 +1,109 @@
+{
+  "hospital_info": {
+    "hospital_name": "AK Health Quotient India Pvt. Ltd",
+    "address": "E-117, Kalkaji, New Delhi-11001",
+    "phone": "+91 11 264 44 53",
+    "website": "www.healthquotientindia.com",
+    "accreditation": "NABL Accredited",
+    "panel": ["CGHS", "DGEHS", "MCD", "DDA", "DJ"],
+    "certificate_number": "",
+    "accreditation_date": ""
+  },
+  "patient_info": {
+    "lab_id": "10189704",
+    "name": "Mr. SAMIR KUMAR SINGH",
+    "age": "37",
+    "gender": "Male",
+    "client_code": "UNITED HEALTH CARE"
+  },
+  "doctor_info": {
+    "referred_by": "SBI LIFE INSURANCE CO. LTD.",
+    "consultant": null,
+    "pathologist": "MBBS, MD",
+    "reporting_location": ""
+  },
+  "report_info": {
+    "report_type": "Pathology Report",
+    "collection_date": "08/09/2018",
+    "collection_time": "09:26:23",
+    "received_date": "08/09/2018",
+    "received_time": "09:31:03",
+    "report_date": "08/09/2018",
+    "report_time": "13:32:40",
+    "sample_type": "Serum"
+  },
+  "test_results": [
+    {
+      "test_name": "SODIUM",
+      "result_value": "141.2",
+      "unit": "meq/L",
+      "reference_range": "135.0 - 155.0",
+      "status": "normal",
+      "method": "Ion Selective Electrode"
+    },
+    {
+      "test_name": "POTASSIUM",
+      "result_value": "4.4",
+      "unit": "meq/L",
+      "reference_range": "3.5 - 5.5",
+      "status": "normal",
+      "method": "Ion Selective Electrode"
+    },
+    {
+      "test_name": "CALCIUM",
+      "result_value": "9.6",
+      "unit": "mg/dL",
+      "reference_range": "8.8 - 10.2",
+      "status": "normal",
+      "method": "ARSENAZO method"
+    },
+    {
+      "test_name": "TOTAL BILIRUBIN",
+      "result_value": "0.36",
+      "unit": "mg/dL",
+      "reference_range": "0.10 - 1.10",
+      "status": "normal",
+      "method": "Jendrassik-Grof"
+    },
+    {
+      "test_name": "CONJUGATED (D. Bilirubin)",
+      "result_value": "0.15",
+      "unit": "mg/dL",
+      "reference_range": "0.00 - 0.25",
+      "status": "normal",
+      "method": "Jendrassik-Grof"
+    },
+    {
+      "test_name": "UNCONJUGATED (I.D. Bilirubin)",
+      "result_value": "0.21",
+      "unit": "mg/dL",
+      "reference_range": "0.10 - 0.70",
+      "status": "normal",
+      "method": "Calculated"
+    },
+    {
+      "test_name": "SGOT (AST)",
+      "result_value": "32.5",
+      "unit": "U/L",
+      "reference_range": "1.0 - 46.0",
+      "status": "normal",
+      "method": "IFCC"
+    },
+    {
+      "test_name": "SGPT (ALT)",
+      "result_value": "27.9",
+      "unit": "U/L",
+      "reference_range": "1.0 - 49.0",
+      "status": "normal",
+      "method": "IFCC"
+    },
+    {
+      "test_name": "ALKALINE PHOSPHATASE",
+      "result_value": "188.0",
+      "unit": "mg/dL",
+      "reference_range": "80.0 - 306.0",
+      "status": "normal",
+      "method": "DGKC - SCE"
+    }
+  ]
+}
